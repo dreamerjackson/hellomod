@@ -1,1 +1,1 @@
-module github.com/donvito/hellomod/v2
+module github.com/dreamerjackson/hellomod/v2
